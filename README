@@ -1,0 +1,12 @@
+# Example code using dynamo v3
+
+Repo contains some tests which use the dynamo v3 client for the purpose of experimenting with what it is capable of doing
+
+## Getting started
+
+Docker is required to run a local dynamo db instance on port 8000
+
+1. yarn install
+2. docker-compose up
+3. yarn test
+
